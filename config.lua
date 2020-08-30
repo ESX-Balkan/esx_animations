@@ -14,11 +14,9 @@ Config.Animations = {
 			{label = "Air Guitar", type = "anim", data = {lib = "anim@mp_player_intcelebrationmale@air_guitar", anim = "air_guitar"}},
 			{label = "Air Shagging", type = "anim", data = {lib = "anim@mp_player_intcelebrationfemale@air_shagging", anim = "air_shagging"}},
 			{label = "Rock'n'roll", type = "anim", data = {lib = "mp_player_int_upperrock", anim = "mp_player_int_rock"}},
-			-- {label = "Fumer un joint", type = "scenario", data = {anim = "WORLD_HUMAN_SMOKING_POT"}},
 			{label = "Bourré sur place", type = "anim", data = {lib = "amb@world_human_bum_standing@drunk@idle_a", anim = "idle_a"}},
 			{label = "Vomir en voiture", type = "anim", data = {lib = "oddjobs@taxi@tie", anim = "vomit_outside"}},
-		}
-	},
+		}},
 
 	{
 		name  = 'greetings',
@@ -29,8 +27,7 @@ Config.Animations = {
 			{label = "Tchek", type = "anim", data = {lib = "mp_ped_interaction", anim = "handshake_guy_a"}},
 			{label = "Salut bandit", type = "anim", data = {lib = "mp_ped_interaction", anim = "hugs_guy_a"}},
 			{label = "Salut Militaire", type = "anim", data = {lib = "mp_player_int_uppersalute", anim = "mp_player_int_salute"}},
-		}
-	},
+		}},
 
 	{
 		name  = 'work',
@@ -54,8 +51,7 @@ Config.Animations = {
 			{label = "Tout métiers : Coup de marteau", type = "scenario", data = {anim = "WORLD_HUMAN_HAMMERING"}},
 			{label = "Clochard : Faire la manche", type = "scenario", data = {anim = "WORLD_HUMAN_BUM_FREEWAY"}},
 			{label = "Clochard : Faire la statue", type = "scenario", data = {anim = "WORLD_HUMAN_HUMAN_STATUE"}},
-		}
-	},
+		}},
 
 	{
 		name  = 'humors',
@@ -80,8 +76,7 @@ Config.Animations = {
 			{label = "Doigt d'honneur", type = "anim", data = {lib = "mp_player_int_upperfinger", anim = "mp_player_int_finger_01_enter"}},
 			{label = "Branleur", type = "anim", data = {lib = "mp_player_int_upperwank", anim = "mp_player_int_wank_01"}},
 			{label = "Balle dans la tete", type = "anim", data = {lib = "mp_suicide", anim = "pistol"}},
-		}
-	},
+		}},
 
 	{
 		name  = 'sports',
@@ -92,8 +87,7 @@ Config.Animations = {
 			{label = "Faire des pompes", type = "anim", data = {lib = "amb@world_human_push_ups@male@base", anim = "base"}},
 			{label = "Faire des abdos", type = "anim", data = {lib = "amb@world_human_sit_ups@male@base", anim = "base"}},
 			{label = "Faire du yoga", type = "anim", data = {lib = "amb@world_human_yoga@male@base", anim = "base_a"}},
-		}
-	},
+		}},
 
 	{
 		name  = 'misc',
@@ -109,8 +103,7 @@ Config.Animations = {
 			{label = "Position de Fouille", type = "anim", data = {lib = "mini@prostitutes@sexlow_veh", anim = "low_car_bj_to_prop_female"}},
 			{label = "Prendre un selfie", type = "scenario", data = {anim = "world_human_tourist_mobile"}},
 			{label = "Ecouter à une porte", type = "anim", data = {lib = "mini@safe_cracking", anim = "idle_base"}}, 
-		}
-	},
+		}},
 
 	{
 		name  = 'attitudem',
@@ -139,8 +132,7 @@ Config.Animations = {
 			{label = "Mangeuse d'homme", type = "attitude", data = {lib = "move_f@maneater", anim = "move_f@maneater"}},
 			{label = "Impertinent", type = "attitude", data = {lib = "move_f@sassy", anim = "move_f@sassy"}},	
 			{label = "Arrogante", type = "attitude", data = {lib = "move_f@arrogant@a", anim = "move_f@arrogant@a"}},
-		}
-	},
+		}},
 	{
 		name  = 'porn',
 		label = 'PEGI 21',
@@ -156,6 +148,4 @@ Config.Animations = {
 			{label = "Strip Tease 1", type = "anim", data = {lib = "mini@strip_club@lap_dance@ld_girl_a_song_a_p1", anim = "ld_girl_a_song_a_p1_f"}},
 			{label = "Strip Tease 2", type = "anim", data = {lib = "mini@strip_club@private_dance@part2", anim = "priv_dance_p2"}},
 			{label = "Stip Tease au sol", type = "anim", data = {lib = "mini@strip_club@private_dance@part3", anim = "priv_dance_p3"}},
-		}
-	}
-}
+		}}}
